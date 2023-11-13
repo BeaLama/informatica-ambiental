@@ -1,2 +1,2 @@
-# inform-tica-ambiental
+# informatica-ambiental
 Este es el trabajo del bloque 2 de FH

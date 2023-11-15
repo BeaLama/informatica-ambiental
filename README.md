@@ -11,6 +11,8 @@
     - [informatica_ecologica](contenido/informatica_ecologica.md)
 ## Referencias
 
+- [Residuos](https://www.fundacionaquae.org/wiki/residuos-electronicos-que-son-y-que-hacer-con-ellos/)
+
 ## Autores
 
 ## Licencia

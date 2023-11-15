@@ -5,8 +5,10 @@
     - [contaminacion](contenido/contaminacion.md)
 2. Residuos informáticos
     - [residuos](contenido/residuos.md)
-3. Obsolescencia programada e informática ecológica
+3. Obsolescencia programada 
     - [obsolescencia](contenido/obsolescencia.md)
+4. Informática ecológica
+    - [informatica_ecologica](contenido/informatica_ecologica.md)
 ## Referencias
 
 ## Autores

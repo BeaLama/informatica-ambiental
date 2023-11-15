@@ -16,7 +16,9 @@
 ## Autores
 
 Inés Calvo (http://github.com/Inesita17)
+
 Beatriz Lama (https://github.com/BeaLama)
+
 Andrés Del Pino (https://github.com/0Vinylo0)
 
 ## Licencia

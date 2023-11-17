@@ -13,7 +13,10 @@
 
 ## Referencias
 
+- [Contaminacion ambiental](http://www.lineaverdehuelva.com/lv/consejos-ambientales/contaminantes/Que-es-la-contaminacion-ambiental.asp)
 - [Residuos](https://www.fundacionaquae.org/wiki/residuos-electronicos-que-son-y-que-hacer-con-ellos/)
+- [Obsolescencia programada](https://www.iberdrola.com/sostenibilidad/obsolescencia-programada)
+- Informatica-ecologica: 'Con ayuda de ChatGPT'
 
 ## Autores
 
